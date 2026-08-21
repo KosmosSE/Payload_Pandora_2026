@@ -1,0 +1,9 @@
+Bme endereços
+	0x76 se SDO no GND
+	0x77 se SDO no VCC
+ADXL endereços
+	0x1D se Alt no high write no 0x3A e read no 0x3B
+	0x53 se alt no GND write no 0xA6 e read no 0xA7
+MPu
+	0x25 ?
+	
